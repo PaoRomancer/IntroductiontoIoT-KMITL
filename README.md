@@ -1,6 +1,6 @@
-# Computer Programming Exercise
+# IntroductiontoIoT - King Mongkut's Institute of Technology Ladkrabang
 
-> Computer Programming (01006012) @ KMITL
+> Introduction to IoT
 
 ## Table of Contents
 
