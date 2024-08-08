@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Week 1: Arduino Sensor](#Week1-view)
-- [Week 2:](#Week2-view)
-- [Week 3:](#Week3-view)
-- [Week 4:](#Week4-view)
-- [Week 5:](#Week5-view)
+- [Week 2: Arduino Sensor](#Week2-view)
+- [Week 3: Display](#Week3-view)
+- [Week 4: Arduino Sensor](#Week4-view)
+- [Week 5: 7-Segment](#Week5-view)
