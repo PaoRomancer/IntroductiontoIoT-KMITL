@@ -12,3 +12,7 @@
 - [Week 5: 7-Segment](#Week5-view)
 
 - [Final 1 : DHT Sensor and NETPIE](https://github.com/PaoRomancer/IntroductiontoIoT-KMITL/tree/main/Final1)
+
+## 📍 Follow me on... 📍
+
+- [Github](https://github.com/PaoRomancer)
