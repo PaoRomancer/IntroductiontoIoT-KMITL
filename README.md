@@ -13,6 +13,6 @@
 
 - [Final 1 : DHT Sensor and NETPIE](https://github.com/PaoRomancer/IntroductiontoIoT-KMITL/tree/main/Final1)
 
-## 📍 Follow me on... 📍
+## 📲 Follow me on... 📲
 
 - [Github](https://github.com/PaoRomancer)
