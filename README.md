@@ -1,6 +1,7 @@
 # IntroductiontoIoT - King Mongkut's Institute of Technology Ladkrabang
 
-> Introduction to IoT
+> Introduction to IoT By PaoRomancer
+> This Code not finish and Code maybe has mistakes. Check important info.
 
 ## Table of Contents
 
