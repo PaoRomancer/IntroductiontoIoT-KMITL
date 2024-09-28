@@ -9,3 +9,5 @@
 - [Week 3: Display](#Week3-view)
 - [Week 4: Arduino Sensor](#Week4-view)
 - [Week 5: 7-Segment](#Week5-view)
+
+- [Final 1 : DHT Sensor and NETPIE](#Final1-view)
